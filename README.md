@@ -16,7 +16,7 @@ At top of dialog box after selecting device type, select "Model - HD12" (even if
 
 On popup dialog choose either local or cloud login.<br>
 On local machine you login with the IP address of the RainMachine device (you should be able to get this from the rainmachine itself under "About" or lookup on your router) and the device password<br>
-On a cloud device you need to have set up an account with RainMachine company and use your email and password for your https://my.rainmachine.com/login?redirect_uri=/devices account<br>
+On a cloud device you need to have set up an account with RainMachine company and use your username and password for your https://my.rainmachine.com/login?redirect_uri=/devices account<br>
 I do not have a rainmachine cloud account and will not be maintaining this if the company changes their login. Would suggest using local access as best idea<br>
 Do not change port unless you have RainMachine running on a different port<br>
 Enter password and hit login<br>
