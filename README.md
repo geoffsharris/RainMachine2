@@ -31,7 +31,7 @@ Select the program or zone you want to control, for zone start there is a durati
 In the details, if you have a flowmeter installed and enabled, it will count the watering and leak clicks and report a combined gallons.<br>
 To setup the flow meter you need to use the web interface of the local rainmachine or the cloud based one to enable and set clicks per gallon.<br>
 
-Please don't ask for further features to setup the rainmachine device, change names of zones, list the prior watering, etc. This is aldeardy well implemented in the webapp, phone app and on the machine itself. This plugin is just designed to allow you to trigger/schedule starting and stoping of programs and zones from Indigo. If you want more info, go to the device or login to the web interface of the device.<br>
+Please don't ask for further features to setup the rainmachine device, change names of zones, list the prior watering, etc. This is already well implemented in the webapp, phone app and on the machine itself. This plugin is just designed to allow you to trigger/schedule starting and stoping of programs and zones from Indigo. If you want more info, go to the device or login to the web interface of the device.<br>
 
 
 
